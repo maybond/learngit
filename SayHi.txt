@@ -1,4 +1,4 @@
 public static void SayHi{
-	Console.WriteLine("Hello,I'm LaoWang.I'm 21 years old. I'm from Yuncheng ShanXi.I'm a Network Engineering Student.I like playing games.");
+	Console.WriteLine("Hello,I'm LaoWang.I'm 21 years old. I'm from Yuncheng ShanXi.I'm a Network Engineering Student.I like playing games.I'm very interested in Internet,so I study the major.");
 	Console.ReadKey();
 }
